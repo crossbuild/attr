@@ -59,7 +59,7 @@ ECHO		= @echo@
 SORT		= @sort@
 LN_S		= @LN_S@
 SHELL		= @SHELL@
-LIBTOOL		= @LIBTOOL@
+LIBTOOL		= @LIBTOOL@ --tag=CC
 MAKEDEPEND	= @makedepend@
 
 MSGFMT		= @msgfmt@
